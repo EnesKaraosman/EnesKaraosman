@@ -16,6 +16,11 @@
 
 ---
 
+#### ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+- [swifty_chat](https://pub.dev/packages/swifty_chat): ![pub package](https://img.shields.io/pub/v/swifty_chat.svg)
+- [efficient_indexed_stack](https://pub.dev/packages/efficient_indexed_stack): ![pub package](https://img.shields.io/pub/v/efficient_indexed_stack.svg)
+
 #### Apps
 
 [Penjig](https://apps.apple.com/us/app/penjig/id1546984240) - JigSaw Game <br> <br>
