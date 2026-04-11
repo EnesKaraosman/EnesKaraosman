@@ -54,16 +54,14 @@
 
 ### Featured Projects
 
-<div align="center">
-
-[![SwiftyChat](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=SwiftyChat&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/SwiftyChat)
-[![SwipeCell](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=SwipeCell&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/SwipeCell)
-[![JSONDrivenUI](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=JSONDrivenUI&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/JSONDrivenUI)
-[![DesignDetective](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=DesignDetective&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/DesignDetective)
-[![LoremSwiftify](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=LoremSwiftify&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/LoremSwiftify)
-[![swifty_chat](https://github-readme-stats.vercel.app/api/pin/?username=EnesKaraosman&repo=swifty_chat&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/EnesKaraosman/swifty_chat)
-
-</div>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**SwiftyChat**](https://github.com/EnesKaraosman/SwiftyChat) | Lightweight SwiftUI chat UI framework with 11 message types, 8 themes, iOS/macOS | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/SwiftyChat?style=flat&color=0D96F2) |
+| [**SwipeCell**](https://github.com/EnesKaraosman/SwipeCell) | Swipe Left2Right & Right2Left, pure SwiftUI implementation | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/SwipeCell?style=flat&color=0D96F2) |
+| [**JSONDrivenUI**](https://github.com/EnesKaraosman/JSONDrivenUI) | Build native SwiftUI views from JSON — 21 view types, 25+ modifiers | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/JSONDrivenUI?style=flat&color=0D96F2) |
+| [**DesignDetective**](https://github.com/EnesKaraosman/DesignDetective) | Compare your implementation and design, see how much they match | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/DesignDetective?style=flat&color=0D96F2) |
+| [**LoremSwiftify**](https://github.com/EnesKaraosman/LoremSwiftify) | Swift Macro generating realistic mock data for previews & tests | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/LoremSwiftify?style=flat&color=0D96F2) |
+| [**swifty_chat**](https://github.com/EnesKaraosman/swifty_chat) | Chat UI package for Flutter | ![Stars](https://img.shields.io/github/stars/EnesKaraosman/swifty_chat?style=flat&color=0D96F2) |
 
 ---
 
@@ -80,8 +78,8 @@
 
 <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnesKaraosman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesKaraosman&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnesKaraosman&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnesKaraosman&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EnesKaraosman&theme=tokyonight&hide_border=true&border_radius=10)
 
